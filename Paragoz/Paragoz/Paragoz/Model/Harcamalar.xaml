@@ -9,6 +9,7 @@
                    FontSize="50"    
                 VerticalOptions="CenterAndExpand"   
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="dgsdgsd"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
