@@ -711,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\Paragoz.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\Paragoz.Android.csproj",
       "projectName": "Paragoz.Android",
-      "projectPath": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\Paragoz.Android.csproj",
+      "projectPath": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\Paragoz.Android.csproj",
       "packagesPath": "C:\\Users\\Şükriye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\obj\\",
+      "outputPath": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

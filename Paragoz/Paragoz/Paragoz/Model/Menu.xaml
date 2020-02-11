@@ -7,19 +7,19 @@
         <StackLayout>
             <Label  x:Name="kategori" Text="Kategoriler"
                 VerticalOptions="Start" 
-                HorizontalOptions="Start" />
+                HorizontalOptions="Start"  TextColor="Black"/>
             <Label x:Name="harcama" Text="Harcamalar"
                 VerticalOptions="Start" 
-                HorizontalOptions="Start" />
+                HorizontalOptions="Start" TextColor="Black" />
             <Label x:Name="cuzdan" Text="Cüzdan"
                 VerticalOptions="Start" 
-                HorizontalOptions="Start" />
+                HorizontalOptions="Start" TextColor="Black" />
             <Label x:Name="gelir" Text="Gelir"
                 VerticalOptions="Start" 
-                HorizontalOptions="Start" />
+                HorizontalOptions="Start" TextColor="Black" />
             <Label x:Name="ayarlar" Text="Ayarlar"
                 VerticalOptions="StartAndExpand" 
-                HorizontalOptions="StartAndExpand" />
+                HorizontalOptions="StartAndExpand" TextColor="Black"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

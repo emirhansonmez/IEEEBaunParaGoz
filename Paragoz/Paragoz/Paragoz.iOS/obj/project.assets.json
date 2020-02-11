@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\Paragoz.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\Paragoz.iOS.csproj",
       "projectName": "Paragoz.iOS",
-      "projectPath": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\Paragoz.iOS.csproj",
+      "projectPath": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\Paragoz.iOS.csproj",
       "packagesPath": "C:\\Users\\Şükriye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

@@ -11,7 +11,8 @@
 namespace Paragoz.Model {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz\\Model\\Harcamalar.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz\\Model\\Ha" +
+        "rcamalar.xaml")]
     public partial class Harcamalar : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

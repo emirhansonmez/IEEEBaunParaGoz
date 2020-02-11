@@ -11,7 +11,8 @@
 namespace Paragoz {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz\\App.xaml" +
+        "")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
