@@ -11,7 +11,8 @@
 namespace Paragoz.Model {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz\\Model\\Menu.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Şükriye\\Desktop\\deneme2\\IEEEBaunParaGoz\\Paragoz\\Paragoz\\Paragoz\\Model\\Me" +
+        "nu.xaml")]
     public partial class Menu : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
