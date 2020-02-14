@@ -4,9 +4,10 @@
              x:Class="Paragoz.Model.Cuzdan" Title="Cuzdan">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Cüzdan Sayafsı"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="cuzdanAdi" Placeholder="Cüzdan Adınızı Girin"></Entry>
+            <Entry x:Name="miktar" Placeholder="Başlangıç Miktarınızı Girin" Keyboard="Numeric"></Entry>
+            <Button Text="Ekle" Clicked="Button_Clicked"></Button>
+            <Label Text="..." x:Name="lblsonuc"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

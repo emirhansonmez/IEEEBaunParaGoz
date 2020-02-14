@@ -16,5 +16,14 @@ namespace Paragoz.Model
 		{
 			InitializeComponent ();
 		}
-	}
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            List<string> kdkd = new List<string>();
+            lblsonuc.Text = cuzdanAdi.Text + " " + miktar.Text;
+            cuzdanAdi.Text = null;
+            miktar.Text = null;
+            DisplayAlert("Cuzdan Kayıt", "başarıyla tamamlandı!", "tamam");
+        }
+    }
 }

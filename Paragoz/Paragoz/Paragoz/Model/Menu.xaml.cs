@@ -19,7 +19,7 @@ namespace Paragoz.Model
             harcama.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked(new Harcamalar())));
             cuzdan.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked(new Cuzdan())));
             gelir.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked(new Gelir())));
-
+            ayarlar.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked(new Giris())));
 
 
         }

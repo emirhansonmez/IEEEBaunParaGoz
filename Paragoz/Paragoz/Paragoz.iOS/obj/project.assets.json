@@ -504,10 +504,11 @@
   },
   "libraries": {
     "Xamarin.Forms/2.5.0.122203": {
-      "sha512": "dA1xIWShusQEE1MjWiyHqUDvBsLfLQQFUlwaf8wKB1KBXJbE/vPWyxch4bWvhWcsVII375gM1XryEGyVDZtktA==",
+      "sha512": "qg7A2IXbVV/5u9qqeiDhRMwpVEsbWKBxzeAtD0rTuntmaDB1Z7WuBg5IK2VBklJbKe2Ps8V9zBfEwgJIqPVJUw==",
       "type": "package",
       "path": "xamarin.forms/2.5.0.122203",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
@@ -697,8 +698,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Şükriye\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "C:\\Users\\Şükriye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -710,13 +710,9 @@
       "outputPath": "C:\\Users\\Şükriye\\Desktop\\ParaGoz\\Paragoz\\Paragoz\\Paragoz.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\Şükriye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"

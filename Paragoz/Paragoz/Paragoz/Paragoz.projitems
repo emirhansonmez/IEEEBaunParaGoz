@@ -27,6 +27,10 @@
       <DependentUpon>Gelir.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Giris.xaml.cs">
+      <DependentUpon>Giris.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Model\Harcamalar.xaml.cs">
       <DependentUpon>Harcamalar.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -87,6 +91,12 @@
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Model\Menu.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Model\Giris.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
   </ItemGroup>
 </Project>
